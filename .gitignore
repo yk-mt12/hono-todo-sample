@@ -139,3 +139,4 @@ dist
 # cloudflare
 wrangler.toml
 worker-configuration.d.ts
+.wrangler/**/*
